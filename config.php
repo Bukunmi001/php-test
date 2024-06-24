@@ -1,19 +1,8 @@
 <?php
 
-// $config = [
-//     $client_id = getenv('GOOGLE_OAUTH_CLIENT_ID');
-///    $client_secret = getenv('GOOGLE_OAUTH_CLIENT_SECRET');
-//     'redirect_uri' => 'http://localhost/login/login.php',
-//     'scopes' => ['email', 'profile'],
-// ];
-
-
-// config.php
-
-// Remove these lines
-// $client_id = 'your-google-oauth-client-id';
-// $client_secret = 'your-google-oauth-client-secret';
-
-// // Use environment variables instead
-// $client_id = getenv('GOOGLE_OAUTH_CLIENT_ID');
-// $client_secret = getenv('GOOGLE_OAUTH_CLIENT_SECRET');
+$config = [
+    'client_id' => '906519987162-v2jk0nmuvdbr75va13qnjfngbo3kcvmi.apps.googleusercontent.com',
+    'client_secret' => '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',
+    'redirect_uri' => 'http://localhost/login/login.php',
+    'scopes' => ['email', 'profile'],
+];
