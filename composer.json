@@ -1,0 +1,6 @@
+{
+    "config": {
+        "home": "C:/xampp/htdocs/composer",
+        "cache-dir": "C:/xampp/htdocs/composer/cache"
+    }
+}
